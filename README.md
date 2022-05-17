@@ -1,3 +1,20 @@
+## PROFILE
+
+Portfolio contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. 
+
+## SKILLS
+
+* **Programming Languages:** 
+  * **Python** - pandas, NumPy, scikit-learn (sklearn), Dask, XGBoost, LightGBM, nltk, sqlalchemy
+  * **R** basics - 
+* **Data Visualization:** matplotlib, seaborn, plotly, Bokeh, ggplot
+* **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series Analysis
+* **Databases:** Oracle, MySQL, SQLite, PostgreSQL
+* **Technologies:** Django, Flask, HTML,	CSS,	Bootstrap
+* **Tools:** Git, Jupyter, Atom, PyCharm, AWS, Digital Ocean, Slack, Jira, Confluence, Trello
+* **OS:** Linux , Windows, macOS
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fellipepf/fellipepf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
