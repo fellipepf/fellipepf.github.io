@@ -1,5 +1,7 @@
+---
+---
 
-@import 'jekyll-theme-leap-day';
+@import "{{ site.theme }}";
 
 header {
     background: #000000;
