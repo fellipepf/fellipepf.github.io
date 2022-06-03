@@ -1,3 +1,5 @@
+
+
 ## PROFILE
 
 Portfolio contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. 
@@ -75,10 +77,14 @@ had a culture to test each functionality developed.
   * Cross-referencing royalties with social indicators to carry out studies and analyzes of these data.
 
 ## Projects
-  - COVID-19 data visualisation - R Shiny
-   ![ireland_map.png](/assets/images/ireland_map.png)*Ireland map*
 
-   ![ireland_map.png](/assets/images/brazil_map.png)*Brazil map*
+   - COVID-19 data visualisation - R Shiny ( [Description](./projects.html) )
+
+     ![ireland_map.png](/assets/images/brazil_map.png)*Brazil map*
+
+   - SPAM and HAM classification - Python
+   - Sentiment Analysis - Corona Virus tweets classification - Python
+   - 
 
 
 ## Skills
@@ -95,42 +101,3 @@ had a culture to test each functionality developed.
 * **Tools:** Git, Jupyter, Atom, PyCharm,  Jira, Trello
 * **OS:** Linux , Windows, macOS
 * **Frameworks** - Spring Boot, Hibernate, EJB, JUnit
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fellipepf/fellipepf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fellipepf/fellipepf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
