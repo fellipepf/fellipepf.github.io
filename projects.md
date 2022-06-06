@@ -5,6 +5,8 @@
 
 ### COVID-19 data visualisation - R Shiny
 
+[Link to the application](https://fellipe.shinyapps.io/shiny_project/)
+
 This data visualization project was developed using Shiny. The home screen is divided into two parts. 
 On the left side are the graphical controls with radio button and time slide. 
 The graphics are displayed on the right side. This side has a tab for each dataset analysed.
