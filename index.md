@@ -1,5 +1,4 @@
 
-
 ## PROFILE
 
 Portfolio contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. 
@@ -65,7 +64,7 @@ had a culture to test each functionality developed.
   systems. The most important in this period
 
 
-* **Trainee - Programmer, Universidade Candido Mendes – Campos, RJ, Brazil** - (Feb 2005 – Dec 2008)
+* **Trainee - Programmer, Universidade Candido Mendes – Campos, RJ, Brazil** - (Feb 2005 – Dec 2008)  ( [Description](./projects.html#inforoyalties) )
   * Development of a system to visualize the royalties collected by the beneficiaries and also facilitate the decision
   making on this information.
   * Modelling and creation of the database for the system
@@ -85,6 +84,11 @@ had a culture to test each functionality developed.
    - SPAM and HAM classification - Python
    - Sentiment Analysis - Corona Virus tweets classification - Python
    - 
+
+   - InfoRoyalties  ( [Description](./projects.html#inforoyalties) )
+   - Boletim
+   - GeoRoyalties ( [Description](./projects.html#GeoRoyalties) )
+   - GeoPrevisao ( [Description](./projects.html#geoprevisao) )
 
 
 ## Skills
