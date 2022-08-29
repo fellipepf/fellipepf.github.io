@@ -31,7 +31,7 @@ The InfoRoyalties allows queries and cross-referencing data from royalties recei
 This project is still active and is maintained by the Candido Mendes University. 
 https://inforoyalties.ucam-campos.br/
 
-![inforoyalties.jpeg](/assets/images/inforoyalties.jpeg)*InfoRoyalties*
+![inforoyalties.jpeg](/assets/images/InfoRoyalties.jpeg)*InfoRoyalties*
 
 All content related about InforRoyalties on internet
 
