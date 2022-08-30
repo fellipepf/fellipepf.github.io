@@ -31,7 +31,13 @@ The InfoRoyalties allows queries and cross-referencing data from royalties recei
 This project is still active and is maintained by the Candido Mendes University. 
 https://inforoyalties.ucam-campos.br/
 
-![inforoyalties.jpeg](/assets/images/InfoRoyalties.jpeg)*InfoRoyalties*
+![inforoyalties.jpeg](/assets/images/inforoyalties.jpeg)*InfoRoyalties*
+
+Technologies:
+ - PHP
+ - PostgreSQL
+
+![inforoyalties_db.png](/assets/images/inforoyalties_db.png)*InfoRoyalties Database*
 
 All content related about InforRoyalties on internet
 
@@ -46,9 +52,11 @@ https://www.upstreamonline.com/online/brazil-investigates-royalty-overpayment/1-
 
 ### GeoRoyalties
 
-https://github.com/fellipepf/georoyalties
+
+[https://github.com/fellipepf/georoyalties](https://github.com/fellipepf/georoyalties)
 
 ### GeoPrevisao
 
-https://github.com/fellipepf/geoprevisao
+[https://github.com/fellipepf/geoprevisao](https://github.com/fellipepf/geoprevisao)
 
+[back](./index.html#projects)

@@ -84,7 +84,11 @@ had a culture to test each functionality developed.
 
    - SPAM and HAM classification - Python
    - Sentiment Analysis - Corona Virus tweets classification - Python
-   - 
+   - Final Project masters in Data Science - ( [Link](https://github.com/fellipepf/final-project-datascience-mtu) )
+  
+   - LiderAgro
+   - front-end: ( [Link](https://github.com/fellipepf/lideragro-angular-ui) )
+   - back-end: ( [Link](https://github.com/fellipepf/lideragro-api) )
 
    - InfoRoyalties  ( [Description](./projects.html#inforoyalties) )
    - Boletim
