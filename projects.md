@@ -37,7 +37,7 @@ Technologies:
  - PHP
  - PostgreSQL
 
-![inforoyalties_db.png](/assets/images/InfoRoyalties_db.png)*InfoRoyalties Database*
+![inforoyalties_db.png](/assets/images/inforoyalties_db.png)*InfoRoyalties Database*
 
 All content related about InforRoyalties on internet
 
